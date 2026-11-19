@@ -12,8 +12,8 @@ Aplikasi ini merupakan aplikasi yang mampu membantu ketika ingin mengelola stock
 karna fiturnya berisi mencatat stock, pengeluaran stock, serta pembagian stock ke rak.
 
 ## Daftar File
-* `nama_file.c` : Kode program utama menggunakan bahasa C.
-* `nama_file.py` : Kode program utama menggunakan bahasa Python.
+* `project2.cxx` : Kode program utama menggunakan bahasa C.
+* `project2.py` : Kode program utama menggunakan bahasa Python.
 * `output-c.png` : Screenshot hasil menjalankan program C.
 * `output-python.png` : Screenshot hasil menjalankan program Python.
 
